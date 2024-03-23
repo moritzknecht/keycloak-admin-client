@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-npm install @cybercoder/keycloak-admin-client
+npm install @moritzknecht/keycloak-admin-client
 ```
 
 ## [Usage](https://www.npmjs.com/package/@keycloak/keycloak-admin-client)
